@@ -1,0 +1,6 @@
+[package]
+name = "tax-calculator"
+version = "0.1.0"
+authors = ["pocka <pockawoooh@gmail.com>"]
+
+[dependencies]

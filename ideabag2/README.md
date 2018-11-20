@@ -1,0 +1,1 @@
+My implementations of [Idea Bag 2](https://ideabag2.firebaseapp.com) ideas.
